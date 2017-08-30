@@ -1,0 +1,21 @@
+body {
+    background-image: url(background.jpg); 
+}
+
+h1 {
+    font-family: 'Handlee', cursive;
+    font-size: 58px;
+    text-align: center;
+    color: #c2e2a5;
+}
+
+p {
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Handlee', cursive;
+    color: #ffffff
+    
+}
+
+img {
+    max-width: 100%;
